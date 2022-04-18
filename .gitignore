@@ -1,1 +1,4 @@
 a.exe*
+*.o
+hello
+hello.exe
